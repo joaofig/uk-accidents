@@ -103,6 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 _map.html
-data/
 
 *.qgz
+*.gpkg

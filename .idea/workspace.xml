@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d3f0d65-bc80-4f8b-b373-e610aab6eac7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/joaof.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShowHotSpots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/failed-cluster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geomath/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geomath/hulls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uk-accidents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uk-accidents.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uk-accident-map.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/uk-accident-map.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="6d3f0d65-bc80-4f8b-b373-e610aab6eac7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +26,9 @@
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="6" />
-          <entry key="project.open.time.8" value="7" />
+          <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -69,11 +58,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ShowHotSpots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2312">
-              <caret line="152" selection-start-line="152" selection-end-line="152" />
+            <state>
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <marker date="1540476549352" expanded="true" signature="2279:2356" ph="..." />
@@ -97,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/geomath/hulls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="126" column="40" lean-forward="true" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="40" />
+            <state relative-caret-position="-443">
+              <caret line="126" column="40" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="40" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <marker date="1540476549321" expanded="true" signature="441:443" ph="..." />
@@ -393,18 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ShowHotSpots.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2312">
-          <caret line="152" selection-start-line="152" selection-end-line="152" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1540476549352" expanded="true" signature="2279:2356" ph="..." />
-            <marker date="1540476549352" expanded="true" signature="3488:5838" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/failed-cluster.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -419,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/geomath/hulls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="126" column="40" lean-forward="true" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="40" />
+        <state relative-caret-position="-443">
+          <caret line="126" column="40" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="40" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <marker date="1540476549321" expanded="true" signature="441:443" ph="..." />
@@ -428,6 +404,17 @@
             <marker date="1540476549321" expanded="true" signature="469:475" ph="..." />
             <marker date="1540476549321" expanded="true" signature="1227:1705" ph="..." />
             <marker date="1540476549321" expanded="true" signature="1726:1861" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShowHotSpots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1540476549352" expanded="true" signature="2279:2356" ph="..." />
+            <marker date="1540476549352" expanded="true" signature="3488:5838" ph="..." />
           </folding>
         </state>
       </provider>
